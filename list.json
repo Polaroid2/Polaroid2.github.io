@@ -1,10 +1,11 @@
 {
-  memes: {
-    "dogcheems": {
+  memes: [
+    {
+      "name": "dogcheems",
       "url": "https://raw.githubusercontent.com/Polaroid2/Polaroid2.github.io/refs/heads/main/meme-templates/Buff-Doge-vs-Cheems.png",
       "width": 937,
       "height": 720,
       "texts": [{x: 750, y:606}]
     }
-  }
+  ]
 }
