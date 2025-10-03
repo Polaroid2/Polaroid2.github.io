@@ -30,7 +30,7 @@
                "textAlign": "left",
                "textBaseLine": "middle",
                "color": "black",
-               "font": "30px Sans"
+               "font": "30px Impact"
             }
         ]
       }
