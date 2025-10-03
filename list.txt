@@ -1,5 +1,5 @@
 {
-  memes: [
+  "memes": [
     {
       "name": "dogcheems",
       "url": "https://raw.githubusercontent.com/Polaroid2/Polaroid2.github.io/refs/heads/main/meme-templates/Buff-Doge-vs-Cheems.png",
