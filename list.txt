@@ -1,11 +1,39 @@
 {
-  "memes": [
-    {
-      "name": "dogcheems",
-      "url": "https://raw.githubusercontent.com/Polaroid2/Polaroid2.github.io/refs/heads/main/meme-templates/Buff-Doge-vs-Cheems.png",
-      "width": 937,
-      "height": 720,
-      "texts": [{"x": 750, "y":606}]
-    }
-  ]
-}
+    "memes": [
+      {
+        "name": "dogcheems",
+        "url": "https://raw.githubusercontent.com/Polaroid2/Polaroid2.github.io/refs/heads/main/meme-templates/Buff-Doge-vs-Cheems.png",
+        "width": 937,
+        "height": 720,
+        "texts": [{"x": 750, "y":606}]
+      },
+      {        
+        "name": "spongeboblicense",
+        "parametersWanted": 0,
+        "url": "https://raw.githubusercontent.com/Polaroid2/Polaroid2.github.io/refs/heads/main/meme-templates/spongebob-license.png",
+        "width": 628,
+        "height": 407,
+        "pics": [
+            {
+                "source": "selected_profile_pic",                
+                "x": 21,
+                "y": 193,
+                "width": 200,
+                "height": 200
+            }         
+        ],
+        "texts": [
+            {
+               "source": "selected_fullname",
+               "x": 242,
+               "y": 192,
+               "textAlign": "left",
+               "textBaseLine": "middle",
+               "color": "black",
+               "font": "30px Sans"
+            }
+        ]
+      }
+    ]
+  }
+  
