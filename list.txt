@@ -31,6 +31,15 @@
                "textBaseLine": "middle",
                "color": "black",
                "font": "30px Impact"
+            },
+            {
+               "source": "selected_fullname",
+               "x": 272,
+               "y": 152,
+               "textAlign": "right",
+               "textBaseLine": "middle",
+               "color": "red",
+               "font": "60px Impact"
             }
         ]
       }
