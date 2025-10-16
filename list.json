@@ -29,8 +29,8 @@
             {
               "source": "random",
               "values": ["GAY", "M", "F"],
-              "x": 628,
-              "y": 407,
+              "x": 290,
+              "y": 287,
               "align": "left",
               "baseline": "middle",
               "color": "black",
