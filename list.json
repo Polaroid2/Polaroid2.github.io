@@ -25,7 +25,17 @@
                "baseline": "middle",
                "color": "black",
                "font": "30px Impact"
-            }
+            },
+            {
+              "source": "random",
+              "values": ["GAY", "M", "F"],
+              "x": 628,
+              "y": 407,
+              "align": "left",
+              "baseline": "middle",
+              "color": "black",
+              "font": "15px Impact"
+           }
         ]
       }
     ]
