@@ -35,7 +35,38 @@
               "baseline": "middle",
               "color": "black",
               "font": "18px Impact"
-           }
+           },
+           {
+            "source": "random",
+            "values": ["Black", "Blue", "Yellow", "Bald", "White"],
+            "x": 374,
+            "y": 287,
+            "align": "left",
+            "baseline": "middle",
+            "color": "black",
+            "font": "18px Impact"
+          },
+          {
+            "source": "random",
+            "values": ["Black", "Blue", "Yellow", "Blind", "Brown"],
+            "x": 529,
+            "y": 287,
+            "align": "left",
+            "baseline": "middle",
+            "color": "black",
+            "font": "18px Impact"
+          },
+          {
+            "source": "random",
+            "angle": 30,
+            "values": ["EXPIRED", "", "", "N*ZI!"],
+            "x": 429,
+            "y": 360,
+            "align": "left",
+            "baseline": "middle",
+            "color": "red",
+            "font": "50px Impact"
+          }
         ]
       }
     ]
