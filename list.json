@@ -59,7 +59,7 @@
           {
             "source": "random",
             "angle": 30,
-            "values": ["EXPIRED", "", "", "N*ZI!"],
+            "values": ["EXPIRED", "YOU N*ZI!"],
             "x": 429,
             "y": 360,
             "align": "left",
