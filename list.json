@@ -29,12 +29,12 @@
             {
               "source": "random",
               "values": ["GAY", "M", "F"],
-              "x": 290,
+              "x": 287,
               "y": 287,
               "align": "left",
               "baseline": "middle",
               "color": "black",
-              "font": "15px Impact"
+              "font": "18px Impact"
            }
         ]
       }
