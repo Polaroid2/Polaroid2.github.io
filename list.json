@@ -2,6 +2,7 @@
     "memes": [
       {        
         "name": "spongeboblicense",
+        "description": "گواهینامه باب اسفنجی با پروفایل شما!",
         "requiredParams": 0,
         "image": "https://raw.githubusercontent.com/Polaroid2/Polaroid2.github.io/refs/heads/main/meme-templates/spongebob-license.png",
         "width": 628,
