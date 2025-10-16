@@ -59,13 +59,13 @@
           {
             "source": "random",
             "angle": 30,
-            "values": ["EXPIRED", "YOU N*ZI!"],
+            "values": ["EXPIRED", "YOU N*ZI!", "", ""],
             "x": 429,
             "y": 360,
             "align": "left",
             "baseline": "middle",
             "color": "red",
-            "font": "50px Stencilio-Demo"
+            "font": "50px Impact"
           }
         ]
       }
